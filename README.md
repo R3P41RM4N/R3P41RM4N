@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @R3P41RM4N
 - 👀 I’m interested in penetesting, ethical hacking, bug bounties, and certifications
-- 🌱 I’m currently learning Junior Pentesting Route on THM and PTS in support of eJPT campaign. Follow up is PNPT certification, eCPPT/eWPTXv2, OSCP, and SANS courses
-- 💞️ I’m looking to collaborate on Studying for future training
+- 🌱 I’m currently learning Junior Pentesting Route on THM and PTS in support of eJPT campaign. Follow up eWPT, Comptia Sec+, BlueTeam Level 1, and SANS courses
+- 💞️ I’m looking to collaborate on Studying for future training and building out a tools and methods repo.
+- Future Certifications: PNPT, eCPPT/eWPTXv2, OSCP
 - 📫 You can reach me here on github... I'll create a new e-mail soon to support this account.
 
 <!---
